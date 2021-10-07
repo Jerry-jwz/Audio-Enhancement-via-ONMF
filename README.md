@@ -29,3 +29,4 @@ This project is licensed under the terms of the MIT license.
 
 ## Acknowledgement
 
+- Hanbaek Lyu for developing fundamental Online Nonnegative Matrix Factorization algorithm.
