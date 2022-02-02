@@ -6,7 +6,7 @@ This repository contains the application of Online Nonnegative Matrix Factorizat
 
 All these codes are based on the papers and repository below:
 
-1. Andrew Sack, Wenzhao Jiang, Michael Perlmutter, Palina Salanevich, Deanna Needell, "On Audio Enhancement via Online Nonnegative Matrix Factorization" (Submitted)[(arXiv)](https://arxiv.org/abs/2110.03114)
+1. Andrew Sack, Wenzhao Jiang, Michael Perlmutter, Palina Salanevich, Deanna Needell, "On Audio Enhancement via Online Nonnegative Matrix Factorization" (Accepted to CISS 2022)[(arXiv)](https://arxiv.org/abs/2110.03114)
 2. Hanbaek Lyu, Georg Menz, Deanna Needell, and Christopher Strohmeier, "Applications of online nonneg-ative matrix factorization to image and time-series data". In 2020 Information Theory and Applications Workshop(ITA), pages 1–9. IEEE, 2020.[(paper)](https://ieeexplore.ieee.org/document/9245004)
 3. https://github.com/HanbaekLyu/ONMF_ONTF_NDL.git
 
